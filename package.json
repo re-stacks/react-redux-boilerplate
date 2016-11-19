@@ -1,0 +1,37 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "0.0.1",
+  "description": "A react-redux boilerplate",
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "jest": "^17.0.3",
+    "jest-cli": "^17.0.3",
+    "lite-server": "^2.2.2",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re-stacks/react-redux-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "boilerplate",
+    "react-redux"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/re-stacks/react-redux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/re-stacks/react-redux-boilerplate#readme"
+}
