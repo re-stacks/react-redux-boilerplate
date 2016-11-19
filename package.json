@@ -13,10 +13,19 @@
     "redux": "^3.6.0"
   },
   "devDependencies": {
+    "babel-jest": "^17.0.2",
+    "babel-loader": "^6.2.8",
+    "css-loader": "^0.26.0",
     "eslint": "^3.10.2",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.24.1",
     "jest": "^17.0.3",
     "jest-cli": "^17.0.3",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
     "lite-server": "^2.2.2",
+    "rimraf": "^2.5.4",
+    "style-loader": "^0.13.1",
     "webpack": "^1.13.3"
   },
   "scripts": {
