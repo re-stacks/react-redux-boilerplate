@@ -18,7 +18,7 @@ export default class App extends React.Component {
       </div>
     );
   }
-};
+}
 
 App.propTypes = {
   children: PropTypes.object.isRequired
